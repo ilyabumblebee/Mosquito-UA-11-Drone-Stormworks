@@ -1,5 +1,5 @@
 # Mosquito-UA-11-Drone-Stormworks
-
+![photo_2023-04-16_00-00-41](https://user-images.githubusercontent.com/129096750/232252980-10b59a9e-467f-4836-9bdc-f8678a487f19.jpg)
 ABOUT
 
 The UA-11 "Mosquito" Drone in Stormworks is a highly advanced unmanned aerial vehicle designed for a wide range of tasks, including search and rescue missions, aerial photography, and reconnaissance operations. With its compact design and advanced sensors, the Mosquito drone is capable of operating in challenging environments, including high winds, rain, and low light conditions.

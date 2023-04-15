@@ -56,6 +56,7 @@ https://imgur.com/qrjv3Qf
 17.	Sends targeting coordinates to drone (also used to set autoreturn coordinates, does not effect autopilot coordinates)
 18.	Altitude hold setting
 19.	Laser Frequency setting (determines what frequency the targeting laser is set too)
+
 CREDITS
 
 Mosquito Drone - https://steamcommunity.com/sharedfiles/filedetails/?id=2596916643

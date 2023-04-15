@@ -61,6 +61,15 @@ https://imgur.com/qrjv3Qf
 18.	Altitude hold setting
 19.	Laser Frequency setting (determines what frequency the targeting laser is set too)
 
+FUTURE PLANS
+
+Implement LIDAR functionality
+Add Better Antennas to game (almost ready)
+Fix minor bugs and not working stuff
+Add low fuel force RTH with adjustable amount
+Maybe something else what I have forgot about
+Also if you have any ideas, share them with me and report all bugs. Thanks!
+
 CREDITS
 
 Mosquito Drone - https://steamcommunity.com/sharedfiles/filedetails/?id=2596916643

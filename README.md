@@ -17,6 +17,8 @@ PAYLOAD MODULES
 
 The UA-11 drone is equipped with two KB-01 Laser Guided Missiles that can be used for targeting purposes. The missiles are set to target the same laser frequency that the drone is using. The laser frequency can be viewed on the payload screen, and the frequency can be changed by pressing the "set frequency" button. Once armed, the missiles detect targets and display a circle in the targeting FOV box. The closer the target is to the center of the FOV, the more likely the missile is to track it. The missile has a range of up to 2000m and uses the vehicle's gyroscopic and GPS data for targeting. It is important to note that weapons must be armed before firing. The drone also has the option to attach external fuel tanks to increase its runtime during missions. The fuel use data will be displayed on the payload screen. The payload system on the drone uses a standardized set of composite signals, allowing for endless payload options. This means that you can make your own modules and attach them!
 
+![2596916643_preview_20210914215117_1](https://user-images.githubusercontent.com/129096750/232253197-91108a0a-fbdf-4f22-ad6c-321d162698cc.jpg)
+
 SHORT SYSTEM OPERATION GUIDE
 
 Command Center

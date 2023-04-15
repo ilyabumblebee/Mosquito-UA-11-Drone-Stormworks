@@ -64,10 +64,15 @@ https://imgur.com/qrjv3Qf
 FUTURE PLANS
 
 Implement LIDAR functionality
+
 Add Better Antennas to game (almost ready)
+
 Fix minor bugs and not working stuff
+
 Add low fuel force RTH with adjustable amount
+
 Maybe something else what I have forgot about
+
 Also if you have any ideas, share them with me and report all bugs. Thanks!
 
 CREDITS

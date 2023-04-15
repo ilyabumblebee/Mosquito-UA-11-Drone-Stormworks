@@ -1,4 +1,5 @@
 # Mosquito-UA-11-Drone-Stormworks
+NAVIGATE TO RELEASES PAGE TO DOWNLOAD LATEST VERSION
 ![photo_2023-04-16_00-00-41](https://user-images.githubusercontent.com/129096750/232252980-10b59a9e-467f-4836-9bdc-f8678a487f19.jpg)
 ABOUT
 

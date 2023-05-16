@@ -68,7 +68,7 @@ FUTURE PLANS
 
 Implement LIDAR functionality
 
-Add Better Antennas to game (almost ready)
+Add Better Antennas to the game (almost ready)
 
 Fix minor bugs and not working stuff
 
